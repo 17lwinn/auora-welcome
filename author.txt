@@ -1,0 +1,5 @@
+name- auora welcome app
+author- 17lwinn
+catagory- utils
+short-description- welcome screen
+description- a welcome screen for AuoraOS, updates coming each week!
