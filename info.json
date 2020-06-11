@@ -1,0 +1,5 @@
+{
+    "name": "dashboard",
+    "startOnBoot": true,
+    "isApp": false
+}
